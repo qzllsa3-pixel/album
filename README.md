@@ -9,5 +9,5 @@ slider
 - 👩🏻‍💻 developed by ghazal salehyar
 - 🗓️ created  11/22/2025
 - 💻 technologies used - Html , css
-- 🔗 how to reach me: whith my [instagram](https://www.instagram.com/qazalldev?igsh=NG0zbGc2dWdzYnkx&utm_source=qr) and [linkedin](https://www.linkedin.com/in/ghazal-salehyar/)
+- 🔗 how to reach me: with my [instagram](https://www.instagram.com/qazalldev?igsh=NG0zbGc2dWdzYnkx&utm_source=qr) and [linkedin](https://www.linkedin.com/in/ghazal-salehyar/)
   
