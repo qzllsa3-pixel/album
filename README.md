@@ -1,6 +1,6 @@
-slider
+# slider
 
-**Hi👋🏽 this is my first project, a simple slider using HTML & CSS.**
+**Hi👋🏽 this is a simple slider using HTML & CSS.**
 
 ![screenshot2](https://github.com/user-attachments/assets/ccfa0913-842d-40b4-a97a-c1ac494add91)
 ![screenshot](https://github.com/user-attachments/assets/f164fcf3-7eed-4f99-a623-1990509f5c61)
